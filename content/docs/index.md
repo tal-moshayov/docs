@@ -1,5 +1,5 @@
-## Overview Welcome to the wercker devcenter! 
-This site is where we document
+## Overview 
+Welcome to the wercker devcenter! This site is where we document
 every feature of wercker and offer in-depth tutorials on various subjects. If
 this is your first time using wercker, we highly recommend starting with the
 [getting started]() guide.
