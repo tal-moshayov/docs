@@ -27,7 +27,8 @@ build:
       tag: latest
     steps:
       - script:
-        name: echo
+        name: echo from whithin the container
+        code: echo "I am running inside a container!"
 ```
 
 The `registry` parameter is not necessary (see the next example) for
@@ -49,7 +50,7 @@ build:
       registry: quay.io
     steps:
       - script:
-        name: echo
+        name: echo from whithin the container
         code: echo "hello world!"
 ```
 
